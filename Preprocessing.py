@@ -30,8 +30,8 @@ def preprocess_comment(comment):
 comments = pd.read_csv('Comments_Scraped/comments.csv')
 
 # Drop the index and meta-data columns
-# comments.drop(comments.columns[0],axis=1,inplace=True)
-# comments.drop(comments.columns[2:5],axis=1,inplace=True)
+comments.drop(comments.columns[0],axis=1,inplace=True)
+comments.drop(comments.columns[2:5],axis=1,inplace=True)
 
 # Remove null value comments, if any
 comments.dropna(inplace=True)
