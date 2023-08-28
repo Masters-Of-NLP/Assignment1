@@ -1,0 +1,39 @@
+post_id,comment,upvotes,time,is_submitter,model1,model2,model3,majority_votes
+kaa713,"i see many nepali people are learning blender, nice job",26,10-12-2020 07:12,False,positive,positive,positive,positive
+kaa713,10-Oct,13,10-12-2020 07:32,False,neutral,neutral,neutral,neutral
+kaa713,Thats beautiful but can anyone explain how to differentiate 2d and 3d picture ??,7,10-12-2020 08:03,False,positive,positive,positive,positive
+kaa713,[Fixed It.](https://imgur.com/a/mVuXLzS),4,10-12-2020 10:48,False,neutral,neutral,neutral,neutral
+kaa713,Eevee re. Eevee ta real time renderer ho ta. Ramro quality ma audaina khasai. Auta frame render garna nu cycles use gareko vae vai halthyo ni,5,10-12-2020 07:38,False,neutral,neutral,positive,neutral
+kaa713,What Nepal can look like in the future.,2,10-12-2020 10:22,False,neutral,neutral,positive,neutral
+kaa713,This is beautiful OP.,2,10-12-2020 10:42,False,positive,positive,positive,positive
+kaa713,Woah bro.,2,10-12-2020 11:01,False,neutral,neutral,negative,neutral
+kaa713,it's so prettyyy,2,10-12-2020 11:26,False,positive,positive,positive,positive
+kaa713,"Bro? Can i get its original file, i wanna use it as my wallpaper. Its awesome.",2,10-12-2020 12:33,False,positive,positive,neutral,positive
+kaa713,Beautiful. How long did it take?,2,10-12-2020 13:33,False,positive,positive,positive,positive
+kaa713,Blender > Maya,2,10-12-2020 13:49,False,neutral,neutral,neutral,neutral
+kaa713,Its f..king awesome,2,10-12-2020 14:04,False,positive,positive,positive,positive
+kaa713,Absolutely beautiful. The fix for my next PC wallpaper for some time now.,2,10-12-2020 14:18,False,positive,positive,positive,positive
+kaa713,"gives a vibe of some Brazilian city ready to host a world cup. Anyways, the art is great. Looks better than the real place lol.",2,10-12-2020 14:29,False,positive,positive,positive,positive
+kaa713,jay nepal,2,10-12-2020 14:34,False,neutral,neutral,positive,neutral
+kaa713,Damn that's beautiful,2,10-12-2020 15:27,False,positive,positive,positive,positive
+kaa713,Awosome job for a day,2,10-12-2020 16:40,False,positive,positive,positive,positive
+kaa713,"Good job.
+
+Yo blender tutorials matra herera sikna sakkincha?",2,10-12-2020 17:06,False,positive,positive,positive,positive
+kaa713,eerie resemblance to brazil favela,2,10-12-2020 19:06,False,neutral,neutral,neutral,neutral
+kaa713,Woah...this is next level,2,10-12-2020 18:46,False,positive,positive,neutral,positive
+kaa713,cyberpunk view of kritipur,1,11-12-2020 12:15,False,neutral,neutral,neutral,neutral
+kaa713,nice,1,12-12-2020 08:52,False,positive,positive,positive,positive
+kaa713,I don't think the person who made this is a nepalese tho.,2,11-12-2020 06:38,False,neutral,neutral,positive,neutral
+kaa713,"OP meant 3d because he modelled/rendered the whole 3d environment in blender, but obviously this is just a picture which is 2d. So if you can see the perception of depth in the picture, you can say its 3d(not necessarily tho).",3,10-12-2020 09:59,False,neutral,neutral,neutral,neutral
+kaa713,Frozen and most of recent animated movies are 3d. Japanese anime are 2d. Hope you can understand now,3,10-12-2020 09:59,False,neutral,neutral,positive,neutral
+kaa713,Not everyone has bulky rtx 2080 or 2-3 grx 1080 setup. Half of us are garib nepali,4,10-12-2020 09:58,False,neutral,neutral,negative,neutral
+kaa713,"Thanks, I think close to 3 days but on and off, so around 20+ hours on blender.",2,10-12-2020 23:46,True,neutral,positive,positive,positive
+kaa713,"Thanks a lot, I still want to add more detail and animate it.",2,11-12-2020 00:08,True,positive,neutral,positive,positive
+kaa713,"oh cool, I'm honored you like it that much.",1,11-12-2020 00:13,True,positive,positive,positive,positive
+kaa713,Thank you,3,10-12-2020 09:59,False,positive,neutral,positive,positive
+kaa713,EEVEE only supports rendering with 1 gpu and it doesn't need a expensive GPU just needs Open GL 3.3 or higher. Also when I first started blender I used a free render farm called SHEEPIT and did all my scenes from a laptop.,2,11-12-2020 00:01,True,neutral,neutral,neutral,neutral
+kaa713,You dont need bulky gpu. I have rendered 200-300 frames in intel 6000 gpu taking whole day. For this on cycle on ok render quality it will be done in just a couple of minute for the lower end gaming gpus.,3,10-12-2020 11:07,False,neutral,neutral,neutral,neutral
+kaa713,"Looking at his image, I don't see it being done in a couple of minutes, unless I am making it out to be more awesome than it is. Also lower end gaming gpus are also not feasible to everyone. It was very hard for me to manage money to even buy a laptop with mx150. Anyways my point is don't ridicule him for using eevie. He is doing it for fun, not professionally",3,10-12-2020 11:17,False,neutral,neutral,positive,neutral
+kaa713,"This is a low poly model with not much of complex lighting or shaders. It will not take much. 
+In my gtx 1050ti i think at the standard render quality. The blenders demo model of car. Which was of high quality. If i remember correctly it took like 5 min or so.",0,10-12-2020 11:23,False,neutral,neutral,negative,neutral
