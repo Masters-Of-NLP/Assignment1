@@ -1,6 +1,6 @@
 # Assignment1
 
-#<samll> Posts Metadata </small>
+<samll> Posts Metadata </small>
 
 | Attribute    | Description                                          |
 |--------------|------------------------------------------------------|
@@ -17,7 +17,7 @@
 | upvote_ratio | The percentage of upvotes from all votes on the submission. |
 | url          | The URL the submission links to, or the permalink if a self post. |
 
-#<samll> Comments Metadata </small>
+<samll> Comments Metadata </small>
 
 | Attribute    | Description                                          |
 |--------------|------------------------------------------------------|
