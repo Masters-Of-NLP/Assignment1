@@ -26,3 +26,18 @@
 | upvotes      | Total number of upvotes/downvotes on the comment.    |
 | time         | Date time when the comment was submitted.            |
 | is_submitter | Whether or not the comment has been posted by posts owner itself. |
+
+## Files 
+* `all_comments.csv` : contains all the scrapped comments from the 100 posts.
+* `comments` : Folder with csv files for comments posts wise.
+* `Labelling/100_labeled_commenst.csv` : Contains the human evaluated labels.
+* `Labelling/labelled_comments.csv` : Contains the model evaluated labels
+* `Labelling` : Contains the codes for model sentiment analysis.
+* `Preprocessing/processed_comments.csv` : Contains the csv file for comments after preprocessing.
+* `Preprocessing/Preprocessing.py` : The python file for preprocessing.
+* `EDA.ipynb` : The jupyter notebook for EDA.
+* `Random_Sampling_Comments.py` : The code for random sampling of the comments.
+* `Krippendorff's_Alpha.py` : The code for inter annotator agreement.
+* `scrape.ipynb` : The code performed by scrapping.
+* `results.pdf` : The writeup for all the tasks.
+* `word_cloud.pdf` : The pdf file for the word cloud of the entire corpus.
