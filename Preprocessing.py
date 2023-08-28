@@ -69,5 +69,5 @@ comments.reset_index(drop=True,inplace=True)
 comments.insert(0,'Sr No.',range(1,1+len(comments)))
 
 # Save the preprocessed comments to a CSV file
-comments.to_csv('Comments_Scraped/final_preprocessed_comments1.csv', index=False)  # Change the path accordingly
+comments.to_csv('preprocessed_comments.csv', index=False)  # Change the path accordingly
 
