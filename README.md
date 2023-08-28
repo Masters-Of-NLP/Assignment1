@@ -32,8 +32,8 @@
 * `comments` : Folder with csv files for comments posts wise.
 * `Labelling/100_labeled_commenst.csv` : Contains the human evaluated labels.
 * `Labelling/labelled_comments.csv` : Contains the model evaluated labels
-* `Labelling` : Contains the codes for model sentiment analysis.
-* `Preprocessing/processed_comments.csv` : Contains the csv file for comments after preprocessing.
+* `Labelling` : Contains the codes for model and human sentiment analysis.
+* `Preprocessing/processed_comments.csv` : The csv file for comments after preprocessing.
 * `Preprocessing/Preprocessing.py` : The python file for preprocessing.
 * `EDA.ipynb` : The jupyter notebook for EDA.
 * `Random_Sampling_Comments.py` : The code for random sampling of the comments.
