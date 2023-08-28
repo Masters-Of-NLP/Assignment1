@@ -27,7 +27,7 @@
 | time         | Date time when the comment was submitted.            |
 | is_submitter | Whether or not the comment has been posted by posts owner itself. |
 
-## Files 
+## Files and Folders
 * `all_comments.csv` : contains all the scrapped comments from the 100 posts.
 * `comments` : Folder with csv files for comments posts wise.
 * `Labelling/100_labeled_commenst.csv` : Contains the human evaluated labels.
